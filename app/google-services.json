@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573030712993",
+    "firebase_url": "https://clgvotingapp.firebaseio.com",
+    "project_id": "clgvotingapp",
+    "storage_bucket": "clgvotingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573030712993:android:fb4fdb9cac154774f552e0",
+        "android_client_info": {
+          "package_name": "com.example.clgvotingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573030712993-77atvjaa3fh5307go72ce9bm9mfkq584.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clgvotingapp",
+            "certificate_hash": "48cc356309a29734619af2417fe8715c20c799e4"
+          }
+        },
+        {
+          "client_id": "573030712993-8c8bb5td14euvlnaqlmt80o9c59bs7n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFm03haFnMMcvaVx4M4bpCtRUVEEaXxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573030712993-8c8bb5td14euvlnaqlmt80o9c59bs7n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
